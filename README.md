@@ -1,22 +1,22 @@
-# 🎯 Portfolio - SURENDAR R S
+# Portfolio - SURENDAR R S
 
 A professional, modern portfolio website showcasing full-stack development expertise, projects, and services.
 
-## 🌐 Live Links
+## Live Links
 
 ### **Production (GitHub Pages) - LIVE**
-🔗 **https://rssrndar-crypto.github.io/portfolio/**
+**https://rssrndar-crypto.github.io/portfolio/**
 
 This is the **official live portfolio** deployed on GitHub Pages. Share this link with clients, recruiters, and friends.
 
 ### **Development Preview**
-🔗 **https://glorious-spoon-97g7v994g5p7c77rx-8000.app.github.dev/#projects**
+**https://glorious-spoon-97g7v994g5p7c77rx-8000.app.github.dev/#projects**
 
 Development preview for testing changes before they go live.
 
 ---
 
-## 📄 Pages Available
+## Pages Available
 
 **Home** – Hero section, value proposition, project showcase, skills, experience  
 **Services** – Detailed service offerings (Mobile Apps, Backend, Aviation Systems, UI/UX, Consulting)  
@@ -28,7 +28,7 @@ Development preview for testing changes before they go live.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Frontend:** HTML5, CSS3, JavaScript  
 **Styling:** Custom CSS, Google Fonts, Font Awesome  
@@ -37,7 +37,7 @@ Development preview for testing changes before they go live.
 
 ---
 
-## 📊 Key Projects
+## Key Projects
 
 ### 1. App Development Portfolio
 - **TaskMaster**: Task manager with offline sync, WorkManager reminders
@@ -53,7 +53,7 @@ Development preview for testing changes before they go live.
 
 ---
 
-## 💼 Services Offered
+## Services Offered
 
 Mobile App Development (iOS/Android)  
 Backend & API Development  
@@ -83,13 +83,13 @@ Visit: `http://localhost:8000`
 
 ---
 
-## 👤 About
+## About
 
 **SURENDAR R S** – Full-Stack Developer  
-📍 Bangalore, India (Remote)  
-📧 rssrndar@gmail.com  
+Bangalore, India (Remote)  
+rssrndar@gmail.com  
 +91 9632584378  
-🔗 [GitHub](https://github.com/surendar630) | [LinkedIn](https://www.linkedin.com/in/surendar-r%20s-038773256)  
+[GitHub](https://github.com/surendar630) | [LinkedIn](https://www.linkedin.com/in/surendar-r%20s-038773256)  
 
 **Education:** B.Tech CSE, Presidency University, Bangalore (CGPA: 7.09)  
 **Available for:** Freelance projects, consulting, technical partnerships  
