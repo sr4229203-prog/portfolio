@@ -18,13 +18,13 @@ Development preview for testing changes before they go live.
 
 ## 📄 Pages Available
 
-✅ **Home** – Hero section, value proposition, project showcase, skills, experience  
-✅ **Services** – Detailed service offerings (Mobile Apps, Backend, Aviation Systems, UI/UX, Consulting)  
-✅ **Case Studies** – In-depth project breakdowns with metrics and business outcomes  
-✅ **App Development** – Mobile app projects (TaskMaster, ShopMini)  
-✅ **Flight Maintenance** – Aviation system with 70+ tool inventory  
-✅ **Contact** – Get in touch & contact information  
-✅ **Resume** – Full resume in web format  
+**Home** – Hero section, value proposition, project showcase, skills, experience  
+**Services** – Detailed service offerings (Mobile Apps, Backend, Aviation Systems, UI/UX, Consulting)  
+**Case Studies** – In-depth project breakdowns with metrics and business outcomes  
+**App Development** – Mobile app projects (TaskMaster, ShopMini)  
+**Flight Maintenance** – Aviation system with 70+ tool inventory  
+**Contact** – Get in touch & contact information  
+**Resume** – Full resume in web format  
 
 ---
 
@@ -55,16 +55,16 @@ Development preview for testing changes before they go live.
 
 ## 💼 Services Offered
 
-✅ Mobile App Development (iOS/Android)  
-✅ Backend & API Development  
-✅ Aviation & Maintenance Systems  
-✅ UI/UX Design & Frontend Development  
-✅ Technical Consulting  
-✅ Project Management  
+Mobile App Development (iOS/Android)  
+Backend & API Development  
+Aviation & Maintenance Systems  
+UI/UX Design & Frontend Development  
+Technical Consulting  
+Project Management  
 
 ---
 
-## 🚀 Deployment Instructions
+## Deployment Instructions
 
 ### Deploy to GitHub Pages
 ```bash
@@ -88,7 +88,7 @@ Visit: `http://localhost:8000`
 **SURENDAR R S** – Full-Stack Developer  
 📍 Bangalore, India (Remote)  
 📧 rssrndar@gmail.com  
-📱 +91 9632584378  
++91 9632584378  
 🔗 [GitHub](https://github.com/surendar630) | [LinkedIn](https://www.linkedin.com/in/surendar-r%20s-038773256)  
 
 **Education:** B.Tech CSE, Presidency University, Bangalore (CGPA: 7.09)  
